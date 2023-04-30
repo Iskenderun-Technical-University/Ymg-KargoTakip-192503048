@@ -45,4 +45,5 @@ Kargo takip sistemi, müşterilerin kargonun durumunu takip etmesi ve kargo şir
 |            |                        |                |
 |    +-----------+       +-----------------------+   |
 |    |  Kullanıcı|       | Kargo Takip Sistemi   |   |
-|    +-----------+       +-----------------------+   |</p>
+|    +-----------+       +-----------------------+   |
+  </p>
