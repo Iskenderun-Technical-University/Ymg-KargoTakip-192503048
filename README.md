@@ -10,9 +10,13 @@ Kargo takip sistemi, müşterilerin kargonun durumunu takip etmesi ve kargo şir
                                                                    #Use-Case
 <p align="center">
 |    +-----------+       +-----------------------+   |
+  
 |    |  Kullanıcı|       | Kargo Takip Sistemi   |   |
+  
 |    +-----------+       +-----------------------+   |
+  
 |            |                        |                |
+  
 |            |   Giriş Yapmak İstiyor |                |
 |            |---------------------->|                |
 |            |                        |                |
