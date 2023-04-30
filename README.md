@@ -8,33 +8,36 @@ Kargo takip sistemi, hem müşterilerin hem de kargo şirketlerinin ihtiyaçlar�
 Kargo takip sistemi, müşterilerin kargonun durumunu takip etmesi ve kargo şirketlerinin teslimatları yönetmesi için oldukça önemlidir. Bu nedenle, birçok kargo şirketi kargo takip sistemi sunar ve müşterilerine en iyi hizmeti sunmak için sürekli olarak sistemlerini günceller ve geliştirir.Bende buna benzer bir proje geliştirmek istedim .
 
 #Use-Case
-<center>    +-----------+       +-----------------------+
-      |  Kullanıcı|       | Kargo Takip Sistemi   |
-      +-----------+       +-----------------------+
-            |                        |
-            |   Giriş Yapmak İstiyor |
-            |---------------------->|
-            |                        |
-            |    Kullanıcı Adı ve   |
-            |    Şifresini Giriyor  |
-            |<----------------------|
-            |                        |
-            |   Giriş Başarılı      |
-            |---------------------->|
-            |                        |
-            |  Kargo Takip Sayfasına|
-            |  Erişmek İstiyor      |
-            |---------------------->|
-            |                        |
-            | Kargo Numarasını veya |
-            | Takip Kodunu Giriyor  |
-            |---------------------->|
-            |                        |
-            |    Kargonun Durumunu  |
-            |    Sorguluyor         |
-            |<----------------------|
-            |                        |
-            | Kargonun Durumunu     |
-            | Gösteriyor            |
-            |---------------------->|
-            |                        |</center>
+|    +-----------+       +-----------------------+   |
+|    |  Kullanıcı|       | Kargo Takip Sistemi   |   |
+|    +-----------+       +-----------------------+   |
+|            |                        |                |
+|            |   Giriş Yapmak İstiyor |                |
+|            |---------------------->|                |
+|            |                        |                |
+|            |    Kullanıcı Adı ve   |                |
+|            |    Şifresini Giriyor  |                |
+|            |<----------------------|                |
+|            |                        |                |
+|            |   Giriş Başarılı      |                |
+|            |---------------------->|                |
+|            |                        |                |
+|            |  Kargo Takip Sayfasına|                |
+|            |  Erişmek İstiyor      |                |
+|            |---------------------->|                |
+|            |                        |                |
+|            | Kargo Numarasını veya |                |
+|            | Takip Kodunu Giriyor  |                |
+|            |---------------------->|                |
+|            |                        |                |
+|            |    Kargonun Durumunu  |                |
+|            |    Sorguluyor         |                |
+|            |<----------------------|                |
+|            |                        |                |
+|            | Kargonun Durumunu     |                |
+|            | Gösteriyor            |                |
+|            |---------------------->|                |
+|            |                        |                |
+|    +-----------+       +-----------------------+   |
+|    |  Kullanıcı|       | Kargo Takip Sistemi   |   |
+|    +-----------+       +-----------------------+   |
