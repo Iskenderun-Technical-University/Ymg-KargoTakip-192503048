@@ -1,4 +1,4 @@
-# Ymg-KargoTakip-192503048
+<html># Ymg-KargoTakip-192503048
 Kargo takip sistemi, müşterilerin kargonun durumunu anlık olarak takip etmesine ve teslimatın zamanında gerçekleşmesini sağlamasına yardımcı olan bir online araçtır. Sistemde, müşteriler tarafından verilen kargo numarası veya takip kodu gibi bilgiler girilerek, kargonun nerede olduğu, hangi aşamada olduğu, tahmini teslimat tarihi ve saati gibi detaylar görüntülenebilir.
 
 Kargo takip sistemi, müşterilere kargonun nerede olduğu hakkında anlık olarak bilgi verirken, kargo şirketleri için de faydalar sağlar. Kargo takip sistemi sayesinde, kargo şirketleri, tüm kargoların teslimat durumlarını anlık olarak takip edebilir, teslimatların zamanında gerçekleşmesini sağlayabilir ve müşteri memnuniyetini artırabilirler.
@@ -40,4 +40,4 @@ Kargo takip sistemi, müşterilerin kargonun durumunu takip etmesi ve kargo şir
 |            |                        |                |
 |    +-----------+       +-----------------------+   |
 |    |  Kullanıcı|       | Kargo Takip Sistemi   |   |
-|    +-----------+       +-----------------------+   |</center>
+|    +-----------+       +-----------------------+   |</center></html>
