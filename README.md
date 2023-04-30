@@ -7,7 +7,7 @@ Kargo takip sistemi, hem müşterilerin hem de kargo şirketlerinin ihtiyaçlar�
 
 Kargo takip sistemi, müşterilerin kargonun durumunu takip etmesi ve kargo şirketlerinin teslimatları yönetmesi için oldukça önemlidir. Bu nedenle, birçok kargo şirketi kargo takip sistemi sunar ve müşterilerine en iyi hizmeti sunmak için sürekli olarak sistemlerini günceller ve geliştirir.Bende buna benzer bir proje geliştirmek istedim .
 
-#Use-Case
+<center> #Use-Case
 |    +-----------+       +-----------------------+   |
 |    |  Kullanıcı|       | Kargo Takip Sistemi   |   |
 |    +-----------+       +-----------------------+   |
@@ -40,4 +40,4 @@ Kargo takip sistemi, müşterilerin kargonun durumunu takip etmesi ve kargo şir
 |            |                        |                |
 |    +-----------+       +-----------------------+   |
 |    |  Kullanıcı|       | Kargo Takip Sistemi   |   |
-|    +-----------+       +-----------------------+   |
+|    +-----------+       +-----------------------+   |</center>
