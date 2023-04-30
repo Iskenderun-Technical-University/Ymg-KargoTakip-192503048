@@ -6,35 +6,6 @@ Kargo takip sistemi, müşterilere kargonun nerede olduğu hakkında anlık olar
 Kargo takip sistemi, hem müşterilerin hem de kargo şirketlerinin ihtiyaçlarını karşılamak için tasarlanmıştır. Kargo takip sistemi, online bir araç olması nedeniyle, kullanıcılarının herhangi bir cihazdan kolayca erişebilmesine olanak sağlar. Ayrıca, kullanıcı dostu arayüzü sayesinde, müşterilerin kargonun durumunu takip etmesi kolay ve hızlı bir şekilde gerçekleşir.
 
 Kargo takip sistemi, müşterilerin kargonun durumunu takip etmesi ve kargo şirketlerinin teslimatları yönetmesi için oldukça önemlidir. Bu nedenle, birçok kargo şirketi kargo takip sistemi sunar ve müşterilerine en iyi hizmeti sunmak için sürekli olarak sistemlerini günceller ve geliştirir.Bende buna benzer bir proje geliştirmek istedim .
+#Use Case
+![Use case](https://user-images.githubusercontent.com/95769704/235355283-50d4d2bd-f43a-42b9-8da2-faec1256e6eb.png)
 
-
-      +-----------+       +-----------------------+
-      |  Kullanıcı|       | Kargo Takip Sistemi   |
-      +-----------+       +-----------------------+
-            |                        |
-            |   Giriş Yapmak İstiyor |
-            |---------------------->|
-            |                        |
-            |    Kullanıcı Adı ve   |
-            |    Şifresini Giriyor  |
-            |<----------------------|
-            |                        |
-            |   Giriş Başarılı      |
-            |---------------------->|
-            |                        |
-            |  Kargo Takip Sayfasına|
-            |  Erişmek İstiyor      |
-            |---------------------->|
-            |                        |
-            | Kargo Numarasını veya |
-            | Takip Kodunu Giriyor  |
-            |---------------------->|
-            |                        |
-            |    Kargonun Durumunu  |
-            |    Sorguluyor         |
-            |<----------------------|
-            |                        |
-            | Kargonun Durumunu     |
-            | Gösteriyor            |
-            |---------------------->|
- https://lucid.app/lucidspark/0f87e470-4e28-4d06-a137-29a506fb744d/edit?viewport_loc=1280%2C2157%2C2048%2C1005%2C0_0&invitationId=inv_cc603f86-dd2b-4db5-a5ee-ffc2613f81e2
